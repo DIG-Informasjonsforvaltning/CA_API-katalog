@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-katalog eier"
+    id="4a102ef2-3808-4535-9b55-1e6217f933b5"
+    documentation="en aktør som allerede forvalter en samling av grensesnitt mot egne og/eller andres data. F.eks. Kartverket gjennom GeoNorge. API-katalogeier kan her være en avgrenset rolle fra datakatalogeier."/>

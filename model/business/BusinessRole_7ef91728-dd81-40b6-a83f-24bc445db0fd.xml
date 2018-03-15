@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-forvalter"
+    id="7ef91728-dd81-40b6-a83f-24bc445db0fd"
+    documentation="a) en som tilbyr og forvalter et grensesnitt mot gitte datasett (tilsvarende databehandler).  F.eks. SKD datadeling (Skattemeldingsdata)&#xD;&#xA;b) en tredjepart som distribuerer dataene for dataeier. F.eks. Evry, Difis datahotell (hotell.difi.no)&#xD;&#xA;"/>
