@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-backend"
+    id="fba29e1a-ff70-4e55-b5e7-8b261a2cb5fb"
+    documentation="En backend applikasjon som implementerer støtte for CRUD-operasjoner og søk av API-ressurser. Eksponerer ressursene gjennom et API (REST)"/>

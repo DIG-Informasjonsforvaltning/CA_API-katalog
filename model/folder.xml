@@ -1,5 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Løsningsarkitektur_API-katalogen"
+    name="CA Felles API-katalog"
     id="34aad189-81b4-4a89-bfc7-aea45b63a783"
+    purpose="Løsningsarkitektur for Felles API-katalog&#xD;&#xA;&#xD;&#xA;For en overordnet arkitektur, se https://github.com/DIG-Informasjonsforvaltning/SA_Informasjonsforvaltning"
     version="4.0.0"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreringsapplikasjon"
+    id="5ba45fb2-41b3-48c9-af60-77b4231b1c41"
+    documentation="En webapplikasjon som gir en API-tilbyder mulighet til å registrere sine API"/>
