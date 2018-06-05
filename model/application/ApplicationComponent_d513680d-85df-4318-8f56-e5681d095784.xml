@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leseapplikasjon"
+    name="API search"
     id="d513680d-85df-4318-8f56-e5681d095784"
     documentation="En webapplikasjon som gir en API-konsument oversikt over og søkemuligheter mot API-beskrivelser"/>
