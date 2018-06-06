@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portal overbygg"
-    id="3eaa6258-80aa-4b6d-9d7f-2373c76c7906"
-    documentation="Presentasjonselementer som er felles for datasettkatalog og API-katalog. Søkefelt for søk i datasettbeskrivelser, begrep og API-beskrivelser"/>

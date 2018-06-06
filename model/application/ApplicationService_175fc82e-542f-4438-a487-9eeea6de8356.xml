@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indeksere datasett"
+    id="175fc82e-542f-4438-a487-9eeea6de8356"
+    documentation="Ta import datasettbeskrivelser og gjør dem søkbare"/>

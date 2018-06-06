@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisering API"
+    id="a0f12518-c4d8-4a50-ad6f-091a0e54c4cf"
+    documentation="Maskinlesbart grensesnitt for å hente ut beskrivelser av datasett"/>

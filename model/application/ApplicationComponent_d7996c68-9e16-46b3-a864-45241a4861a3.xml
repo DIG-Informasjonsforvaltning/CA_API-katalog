@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett lagring"
+    id="d7996c68-9e16-46b3-a864-45241a4861a3"
+    documentation="Persistent lagring av datasettbeskrivrelser"/>

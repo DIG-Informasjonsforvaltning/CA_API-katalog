@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søke-GUI"
+    id="e3c2f615-9bcf-4427-8a80-9115a2fa5a43"
+    documentation="Brukergrensesnitt for å søke i flere kataloger samtidig"/>

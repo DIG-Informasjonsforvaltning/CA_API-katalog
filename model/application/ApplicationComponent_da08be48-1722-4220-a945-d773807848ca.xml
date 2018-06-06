@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Admin info lagring"
+    id="da08be48-1722-4220-a945-d773807848ca"
+    documentation="Lagring av metadata om innhøsting: Hvor høstes det fra, når ble det høstet, var høstingen vellykket, valideringsresultater"/>

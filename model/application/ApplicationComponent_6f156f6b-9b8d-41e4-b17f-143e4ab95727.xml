@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søk"
+    id="6f156f6b-9b8d-41e4-b17f-143e4ab95727"
+    documentation="Komponent som lar bruker søke i flere kataloger samtidig"/>

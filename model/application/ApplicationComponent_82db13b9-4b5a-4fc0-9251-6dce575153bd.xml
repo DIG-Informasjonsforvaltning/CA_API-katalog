@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-registrering"
+    id="82db13b9-4b5a-4fc0-9251-6dce575153bd"
+    documentation="Opprette, hente frem, oppdatere og slette beskrivelser av API-er (CRRud). Bestemme om de kan publiseres eller ikke. Tilgangsstyring."/>

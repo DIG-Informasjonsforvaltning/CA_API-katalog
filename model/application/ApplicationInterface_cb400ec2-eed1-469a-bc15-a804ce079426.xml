@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdaterings-api"
+    id="cb400ec2-eed1-469a-bc15-a804ce079426"
+    documentation="Maskingrensesnitt for oppdatering av datasett i datasettkatalog. CUD"/>

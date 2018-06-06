@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansedata håndtering"
+    id="7c84d522-a56a-4235-8640-26fd7efd8fc9"
+    documentation="Oppdatere, lagre, søke i referansedata. Kodelister og temaer."/>

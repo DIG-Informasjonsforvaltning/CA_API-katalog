@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere API-beskrivelser"
+    id="41220e27-d97f-4258-b344-b80e6b2a757f"
+    documentation="Gjøre det mulig å registrere beskrivelser av API-er."/>

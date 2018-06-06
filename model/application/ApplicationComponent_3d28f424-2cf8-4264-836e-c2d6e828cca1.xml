@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett lagring"
+    id="3d28f424-2cf8-4264-836e-c2d6e828cca1"
+    documentation="Lagring av beskrivelser av datasett sammen med publiseringsstatus og andre metadata."/>

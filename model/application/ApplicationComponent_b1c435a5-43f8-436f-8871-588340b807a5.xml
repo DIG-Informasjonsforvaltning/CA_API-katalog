@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett registrering"
+    id="b1c435a5-43f8-436f-8871-588340b807a5"
+    documentation="Komponent som lar brukere registrere beskrivelser av datasett og publisere disse slik at de kan høstes av felles datakatalog"/>

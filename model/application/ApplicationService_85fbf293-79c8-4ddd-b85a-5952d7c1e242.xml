@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indeksere API-beskrivelser"
+    id="85fbf293-79c8-4ddd-b85a-5952d7c1e242"
+    documentation="Ta imot API-beskrivelser og gjøre dem søkbare"/>

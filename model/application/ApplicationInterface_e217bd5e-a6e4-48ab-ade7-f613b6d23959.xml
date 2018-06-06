@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søk API"
+    id="e217bd5e-a6e4-48ab-ade7-f613b6d23959"
+    documentation="Grensesnitt for å søke og hente ut maskinlesbare beskrivelser av API-er. (R i CRUD)"/>

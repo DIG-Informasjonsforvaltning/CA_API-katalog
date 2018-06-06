@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett registrering"
+    id="dee1b99f-df00-403e-bfe4-4153f5ea0e9d"
+    documentation="Opprette, hente frem, oppdatere og slette beskrivelser av datasett. Bestemme om de kan publiseres eller ikke. Tilgangsstyring."/>

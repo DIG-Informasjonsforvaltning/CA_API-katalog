@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-oppdatering"
+    id="ff58e4a0-173b-45ec-8a98-b9ad0f0e76ab"
+    documentation="Leser inn, validerer og lagrer beskrlvelser av API-er"/>

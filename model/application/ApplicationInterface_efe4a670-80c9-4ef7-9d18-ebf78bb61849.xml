@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Harvester admin"
+    id="efe4a670-80c9-4ef7-9d18-ebf78bb61849"
+    documentation="Brukergrensesnitt for å administrere innhøsting av datasett fra eksterne kilder"/>

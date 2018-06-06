@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Search"
+    id="85cc641c-6522-4e9e-b773-da599818ad59"
+    documentation="Søker etter og henter ut komplette beskrivelser av datasett"/>

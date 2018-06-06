@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhøsting administrasjon"
+    id="1b58721d-dcf6-4364-9b20-cd09763cbd85"
+    documentation="Brukergrensesnitt for å administrere innhøsting av API-beskrivelser fra eksterne kilder"/>

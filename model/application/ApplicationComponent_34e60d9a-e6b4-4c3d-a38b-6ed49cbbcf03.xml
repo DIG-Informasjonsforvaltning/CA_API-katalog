@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Harvester"
+    id="34e60d9a-e6b4-4c3d-a38b-6ed49cbbcf03"
+    documentation="Leser inn, validerer og lagrer datasettbeskrivelser"/>

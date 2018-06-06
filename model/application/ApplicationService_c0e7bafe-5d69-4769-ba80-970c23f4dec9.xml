@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søk på tvers i kataloger"
+    id="c0e7bafe-5d69-4769-ba80-970c23f4dec9"
+    documentation="Gjøre det mulig for brukere å søke i flere ulike kataloger samtidig"/>

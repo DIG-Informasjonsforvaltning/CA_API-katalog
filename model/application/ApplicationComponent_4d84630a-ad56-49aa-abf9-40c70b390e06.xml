@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-beskrivelse lagring"
+    id="4d84630a-ad56-49aa-abf9-40c70b390e06"
+    documentation="Lagring av beskrivelser av API-erett sammen med publiseringsstatus og andre metadata."/>
