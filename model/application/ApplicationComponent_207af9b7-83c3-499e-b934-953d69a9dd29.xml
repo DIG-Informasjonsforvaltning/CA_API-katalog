@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API katalog harvester"
+    id="207af9b7-83c3-499e-b934-953d69a9dd29"
+    documentation="Brukergrensesnitt for å administrere høsting av API-beskrivelser"/>

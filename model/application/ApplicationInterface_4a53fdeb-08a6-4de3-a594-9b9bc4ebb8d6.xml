@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-katalog søke-API"
-    id="4a53fdeb-08a6-4de3-a594-9b9bc4ebb8d6"/>
+    id="4a53fdeb-08a6-4de3-a594-9b9bc4ebb8d6"
+    documentation="API for å søke i API-beskrivelser"/>

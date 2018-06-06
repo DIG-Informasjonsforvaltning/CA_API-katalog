@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registration"
-    id="25cdb97d-4311-43fe-8e7c-6029c2061520"/>
+    id="25cdb97d-4311-43fe-8e7c-6029c2061520"
+    documentation="Brukergrensesnitt for å registrere datasettbeskrivelser"/>

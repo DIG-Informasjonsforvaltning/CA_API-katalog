@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-katalog registrerings-API"
-    id="017dbe34-4881-4980-9741-84e8d5ffdaf1"/>
+    id="017dbe34-4881-4980-9741-84e8d5ffdaf1"
+    documentation="API som for å registrere API-beskrivelser"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API katalog harvester-API"
-    id="3add27a2-a186-46cd-83f0-ba3ac515f44e"/>
+    id="3add27a2-a186-46cd-83f0-ba3ac515f44e"
+    documentation="API for å administrere høsting av API-beskrlvelser"/>
